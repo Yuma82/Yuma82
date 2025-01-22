@@ -20,9 +20,11 @@
 ### 📊 GitHub Stats
 ![Yuma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuma82&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Yuma82&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuma82&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yuma82&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ### 🚀 Projects & Contributions
 🔹 [Explainable AI Visualization for Object Detection](https://github.com/Yuma82/XAI-ObjectDetection)  
