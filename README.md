@@ -1,4 +1,4 @@
-## Hi there, I'm Yuma Nakai! 👋
+## Hi there, I'm Yuma! 👋
 
 🎯 Passionate about **Deep Learning, Computer Vision & XAI**
 
