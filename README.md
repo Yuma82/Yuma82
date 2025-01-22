@@ -1,6 +1,6 @@
 ## Hi there, I'm Yuma Nakai! 👋
 
-🚀 **AI Researcher & Software Engineer** | 🎯 Passionate about **Deep Learning, Computer Vision & XAI**
+🎯 Passionate about **Deep Learning, Computer Vision & XAI**
 
 ### 🧠 About Me
 - 🎓 Master's Student in **Computer Science** | Focused on **Explainable AI & Object Detection**
@@ -36,6 +36,5 @@
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Yuma82)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Yuma82)
 
 🔥 _“Coding is like art. The only limit is your imagination.”_ 🔥
