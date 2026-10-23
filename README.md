@@ -31,10 +31,6 @@
 🔹 [Autonomous Driving Perception Models](https://github.com/Yuma82/Autonomous-Perception)  
 🔹 [Deep Learning for Image Recognition](https://github.com/Yuma82/ImageRecognition-DeepLearning)  
 
-### 📄 Publications
-- **[マルチスケールな検出領域を用いた改良型ODAMによる可視化結果の解釈容易性向上](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202402232850910520)**  
-  *仲井悠真, 平川翼, 山下隆義, 藤吉弘亘*  
-  Vol.2024-CVIM-238, No.50, 1-7, May 2024.  
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Yuma82)
